@@ -7,11 +7,11 @@
 </ul>
 <h2>Torrent</h2>
 <ul>
-	<li><ahref="http://1337xto.in">1337xto.in</a></li>
-	<li><ahref="https://piratebay-proxy.org/">Piratebay.proxy.org</a></li>
-	<li><ahref="https://thepiratetpb.eu">Piratebay.eu</a></li>
-	<li><ahref="https://proxyof.com">Kickass</a></li>
-	<li><ahref="https://yst.am">YIFY Movies</a></li>
-	<li><ahref="https://getpiratebay.com">Pirate bay</a></li>
-	<li><ahref="https://torrentz2eu.in/">Torrentz2eu.in</a></li>
+	<li><a href="http://1337xto.in">1337xto.in</a></li>
+	<li><a href="https://piratebay-proxy.org/">Piratebay.proxy.org</a></li>
+	<li><a href="https://thepiratetpb.eu">Piratebay.eu</a></li>
+	<li><a href="https://proxyof.com">Kickass</a></li>
+	<li><a href="https://yst.am">YIFY Movies</a></li>
+	<li><a href="https://getpiratebay.com">Pirate bay</a></li>
+	<li><a href="https://torrentz2eu.in/">Torrentz2eu.in</a></li>
 </ul>
