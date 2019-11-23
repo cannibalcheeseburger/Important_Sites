@@ -15,3 +15,12 @@
 	<li><a href="https://getpiratebay.com">Pirate bay</a></li>
 	<li><a href="https://torrentz2eu.in/">Torrentz2eu.in</a></li>
 </ul>
+<h2>Books and stuff</h2>
+<ul>
+	<li><a href="http://gen.lib.rus.ec">gen.lib.rus.ec</a></li>
+	<li><a href="https://archive.org/">archive.org</a></li>
+</ul>
+<h2>Online Streaming</h2>
+<ul>
+	<li><a href="http://123tvnow.com">123tv</a></li>
+</ul>
